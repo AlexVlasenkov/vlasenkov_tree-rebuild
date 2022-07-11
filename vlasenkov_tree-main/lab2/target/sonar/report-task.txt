@@ -1,0 +1,6 @@
+projectKey=ru.krista.summer22.vlasenkov:lab2
+serverUrl=https://sonar-stud.krista.ru
+serverVersion=7.1.0.11001
+dashboardUrl=https://sonar-stud.krista.ru/dashboard/index/ru.krista.summer22.vlasenkov:lab2
+ceTaskId=AYHdKck6ebOdtjrbi6DN
+ceTaskUrl=https://sonar-stud.krista.ru/api/ce/task?id=AYHdKck6ebOdtjrbi6DN

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.2" sequence="0" timestamp="1657272584432" analysisTimestamp="1657272911252" release="">
+  <Project>
+    <Jar>C:\Users\term9\Documents\Projects\lab2\target\classes\ru\krista\summer22\vlasenkov\lab2\Node.class</Jar>
+    <AuxClasspathEntry>C:\Users\term9\Documents\Projects\lab2\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\junit\junit\4.12\junit-4.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.7\jackson-core-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.7\jackson-annotations-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.7\jackson-databind-2.9.7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\plugins\maven-surefire-plugin\2.22.0\maven-surefire-plugin-2.22.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\surefire\maven-surefire-common\2.22.0\maven-surefire-common-2.22.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-plugin-api\2.2.1\maven-plugin-api-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\plugin-tools\maven-plugin-annotations\3.5\maven-plugin-annotations-3.5.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\surefire\surefire-api\2.22.0\surefire-api-2.22.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\surefire\surefire-logger-api\2.22.0\surefire-logger-api-2.22.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\surefire\surefire-booter\2.22.0\surefire-booter-2.22.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-artifact\2.2.1\maven-artifact-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.15\plexus-utils-1.5.15.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-plugin-descriptor\2.2.1\maven-plugin-descriptor-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\codehaus\plexus\plexus-container-default\1.0-alpha-9-stable-1\plexus-container-default-1.0-alpha-9-stable-1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-project\2.2.1\maven-project-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-settings\2.2.1\maven-settings-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-profile\2.2.1\maven-profile-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-artifact-manager\2.2.1\maven-artifact-manager-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\backport-util-concurrent\backport-util-concurrent\3.1\backport-util-concurrent-3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-plugin-registry\2.2.1\maven-plugin-registry-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\codehaus\plexus\plexus-interpolation\1.11\plexus-interpolation-1.11.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-model\2.2.1\maven-model-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-core\2.2.1\maven-core-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-plugin-parameter-documenter\2.2.1\maven-plugin-parameter-documenter-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\wagon\wagon-http\1.0-beta-6\wagon-http-1.0-beta-6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\wagon\wagon-http-shared\1.0-beta-6\wagon-http-shared-1.0-beta-6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\nekohtml\xercesMinimal\1.9.6.2\xercesMinimal-1.9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\nekohtml\nekohtml\1.9.6.2\nekohtml-1.9.6.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\commons-httpclient\commons-httpclient\3.1\commons-httpclient-3.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\commons-codec\commons-codec\1.2\commons-codec-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\reporting\maven-reporting-api\2.2.1\maven-reporting-api-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\doxia\doxia-logging-api\1.1\doxia-logging-api-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\wagon\wagon-provider-api\1.0-beta-6\wagon-provider-api-1.0-beta-6.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-repository-metadata\2.2.1\maven-repository-metadata-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-error-diagnostics\2.2.1\maven-error-diagnostics-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-monitor\2.2.1\maven-monitor-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\classworlds\classworlds\1.1\classworlds-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\sonatype\plexus\plexus-sec-dispatcher\1.3\plexus-sec-dispatcher-1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\sonatype\plexus\plexus-cipher\1.4\plexus-cipher-1.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\apache\maven\maven-toolchain\2.2.1\maven-toolchain-2.2.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\codehaus\plexus\plexus-java\0.9.8\plexus-java-0.9.8.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\org\ow2\asm\asm\6.1.1\asm-6.1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\.m2\repository\com\thoughtworks\qdox\qdox\2.0-M7\qdox-2.0-M7.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\Documents\Projects\lab2\target\sonar\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\term9\Documents\Projects\lab2\target\sonar\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>C:\Users\term9\Documents\Projects\lab2\target\sonar</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 8 Jul 2022 12:29:44 +0300" total_classes="1" referenced_classes="19" total_bugs="0" total_size="70" num_packages="1" java_version="1.8.0_212" vm_version="25.212-b10" cpu_seconds="12.80" clock_seconds="1.81" peak_mbytes="632.27" alloc_mbytes="27305.00" gc_seconds="0.00">
+    <FileStats path="ru/krista/summer22/vlasenkov/lab2/Node.java" bugCount="0" size="70"/>
+    <PackageStats package="ru.krista.summer22.vlasenkov.lab2" total_bugs="0" total_types="1" total_size="70">
+      <ClassStats class="ru.krista.summer22.vlasenkov.lab2.Node" sourceFile="Node.java" interface="false" size="70" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="244" invocations="493" avgMicrosecondsPerInvocation="496" maxMicrosecondsPerInvocation="27963" standardDeviationMicrosecondsPerInvocation="1453"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="166" invocations="494" avgMicrosecondsPerInvocation="336" maxMicrosecondsPerInvocation="1146" standardDeviationMicrosecondsPerInvocation="138"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="71" invocations="19" avgMicrosecondsPerInvocation="3774" maxMicrosecondsPerInvocation="20782" standardDeviationMicrosecondsPerInvocation="5584"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="49" invocations="14" avgMicrosecondsPerInvocation="3561" maxMicrosecondsPerInvocation="47410" standardDeviationMicrosecondsPerInvocation="12162"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="43" invocations="19" avgMicrosecondsPerInvocation="2278" maxMicrosecondsPerInvocation="10085" standardDeviationMicrosecondsPerInvocation="2740"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="39" invocations="102" avgMicrosecondsPerInvocation="391" maxMicrosecondsPerInvocation="5179" standardDeviationMicrosecondsPerInvocation="623"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="34" invocations="461" avgMicrosecondsPerInvocation="74" maxMicrosecondsPerInvocation="1201" standardDeviationMicrosecondsPerInvocation="131"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="34" invocations="63" avgMicrosecondsPerInvocation="545" maxMicrosecondsPerInvocation="17969" standardDeviationMicrosecondsPerInvocation="2294"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="33" invocations="16" avgMicrosecondsPerInvocation="2074" maxMicrosecondsPerInvocation="14310" standardDeviationMicrosecondsPerInvocation="3421"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="27" invocations="17" avgMicrosecondsPerInvocation="1627" maxMicrosecondsPerInvocation="13078" standardDeviationMicrosecondsPerInvocation="2961"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="23" invocations="19" avgMicrosecondsPerInvocation="1260" maxMicrosecondsPerInvocation="9094" standardDeviationMicrosecondsPerInvocation="2116"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="22" invocations="14" avgMicrosecondsPerInvocation="1626" maxMicrosecondsPerInvocation="16208" standardDeviationMicrosecondsPerInvocation="4067"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="22" invocations="14" avgMicrosecondsPerInvocation="1607" maxMicrosecondsPerInvocation="8328" standardDeviationMicrosecondsPerInvocation="2090"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="21" invocations="19" avgMicrosecondsPerInvocation="1150" maxMicrosecondsPerInvocation="9134" standardDeviationMicrosecondsPerInvocation="2101"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="17" invocations="19" avgMicrosecondsPerInvocation="918" maxMicrosecondsPerInvocation="6034" standardDeviationMicrosecondsPerInvocation="1413"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="16" invocations="14" avgMicrosecondsPerInvocation="1179" maxMicrosecondsPerInvocation="5526" standardDeviationMicrosecondsPerInvocation="1469"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="16" invocations="19" avgMicrosecondsPerInvocation="861" maxMicrosecondsPerInvocation="9447" standardDeviationMicrosecondsPerInvocation="2064"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="15" invocations="14" avgMicrosecondsPerInvocation="1100" maxMicrosecondsPerInvocation="7285" standardDeviationMicrosecondsPerInvocation="1827"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
